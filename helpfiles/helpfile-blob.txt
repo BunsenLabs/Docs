@@ -4,7 +4,7 @@ BLOB - The BunsenLabs theme management script
 bl-obthemes is a script to save or restore gui theme settings,
  from a graphical user interface based on yad.
 
-To launch from the BL Menu: Utilities -> BLOB Themes Manager
+To launch from the BL Menu: User Settings -> BLOB Themes Manager
 
 To launch from a terminal: bl-obthemes [-h|--help][-v|--verbose]
 Optional arguments:
